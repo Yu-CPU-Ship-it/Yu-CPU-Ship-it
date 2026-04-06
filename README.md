@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# 私の学習記録サイト
+💻HTMLとCSSとJSを独学で勉強しています！
+🔧日本の大学生！工学部です。
+🎨Blenderで3Dモデルも作っています。
+
+## 好きなもの
+🎮 崩壊スターレイル／ゼンレスゾーンゼロ／アニメ,漫画
+🍳 自炊（エッグベネディクトが得意です）
+
 <!--
 **Yu-CPU-Ship-it/Yu-CPU-Ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
